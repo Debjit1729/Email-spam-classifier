@@ -19,8 +19,6 @@ The goal of this project is to build a robust model that can classify SMS messag
 
 6. **Model Improvement**: Fine-tuning the model to enhance its accuracy and robustness, possibly through hyperparameter tuning or experimenting with different models.
 
-7. **Deployment**: Deploying the final model as a web application to allow users to input SMS messages and receive predictions.
-
 ## How to Use
 
 1. **Clone the Repository**:
@@ -40,9 +38,6 @@ The goal of this project is to build a robust model that can classify SMS messag
    ```bash
    jupyter notebook sms-spam-detection.ipynb
    ```
-
-4. **Deploy the Model**:
-   Follow the instructions in the notebook or additional deployment scripts to deploy the model as a web application.
 
 ## Dataset
 
