@@ -50,4 +50,4 @@ The dataset used in this project is a collection of SMS messages labeled as spam
 
 ## Conclusion
 
-This project demonstrates the end-to-end process of building and deploying a machine learning model for SMS spam detection. Contributions and improvements are welcome.
+This project demonstrates the end-to-end process of building a machine learning model for SMS spam detection. Contributions and improvements are welcome.
