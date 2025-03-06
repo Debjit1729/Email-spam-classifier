@@ -1,7 +1,7 @@
 
 # SMS Spam Detection
 
-This repository contains a Python-based project for detecting SMS spam messages using machine learning techniques. The project involves data cleaning, exploratory data analysis (EDA), text preprocessing, model building, evaluation, and deployment as a web application.
+This repository contains a Python-based project for detecting SMS spam messages using machine learning techniques. The project involves data cleaning, exploratory data analysis (EDA), text preprocessing, model building, evaluation.
 
 ## Project Overview
 
